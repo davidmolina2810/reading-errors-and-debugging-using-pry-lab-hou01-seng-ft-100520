@@ -11,4 +11,4 @@ def play_game(player1, player2)
 end
 
 start_game('david','ashley')
-play_game('ashley')
+play_game('david','ashley')
